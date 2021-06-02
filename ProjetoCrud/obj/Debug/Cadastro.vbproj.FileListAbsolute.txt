@@ -1,0 +1,36 @@
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe.config
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.pdb
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.xml
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.dll
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.pdb
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.xml
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.CadastroCliente.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Resources.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Principal.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.CopyComplete
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.exe
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.xml
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.pdb
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.frmConsultaCliente.resources
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe.config
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.pdb
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.xml
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.dll
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.pdb
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\bin\Debug\DBOCadastro.xml
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbprojAssemblyReference.cache
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.CadastroCliente.resources
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.frmConsultaCliente.resources
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Resources.resources
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Principal.resources
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\Cadastro.vbproj.CopyComplete
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.exe
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.xml
+C:\Users\DELL\Desktop\my project\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.pdb

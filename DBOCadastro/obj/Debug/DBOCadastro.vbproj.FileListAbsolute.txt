@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\bin\Debug\DBOCadastro.dll
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\bin\Debug\DBOCadastro.pdb
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\bin\Debug\DBOCadastro.xml
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.Resources.resources
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.dll
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.xml
+C:\Users\DELL\source\repos\ProjetoCrud\DBOCadastro\obj\Debug\DBOCadastro.pdb

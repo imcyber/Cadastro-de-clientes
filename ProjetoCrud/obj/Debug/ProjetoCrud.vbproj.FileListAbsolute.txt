@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe.config
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.exe
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.pdb
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\bin\Debug\ProjetoCrud.xml
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.CadastroCliente.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Resources.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.Principal.resources
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.exe
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.xml
+C:\Users\DELL\source\repos\ProjetoCrud\ProjetoCrud\obj\Debug\ProjetoCrud.pdb
